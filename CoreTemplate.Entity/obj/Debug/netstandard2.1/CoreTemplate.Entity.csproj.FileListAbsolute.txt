@@ -1,0 +1,8 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\bin\Debug\netstandard2.1\CoreTemplate.Entity.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\bin\Debug\netstandard2.1\CoreTemplate.Entity.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\bin\Debug\netstandard2.1\CoreTemplate.Entity.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\obj\Debug\netstandard2.1\CoreTemplate.Entity.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\obj\Debug\netstandard2.1\CoreTemplate.Entity.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\obj\Debug\netstandard2.1\CoreTemplate.Entity.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\obj\Debug\netstandard2.1\CoreTemplate.Entity.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Entity\obj\Debug\netstandard2.1\CoreTemplate.Entity.pdb

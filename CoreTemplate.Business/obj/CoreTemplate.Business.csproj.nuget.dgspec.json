@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Business\\CoreTemplate.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Business\\CoreTemplate.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Business\\CoreTemplate.Business.csproj",
+        "projectName": "CoreTemplate.Business",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Business\\CoreTemplate.Business.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\CoreTemplate.Domain.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\CoreTemplate.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\CoreTemplate.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\CoreTemplate.DataAccess.csproj",
+        "projectName": "CoreTemplate.DataAccess",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\CoreTemplate.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\CoreTemplate.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\CoreTemplate.Domain.csproj",
+        "projectName": "CoreTemplate.Domain",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\CoreTemplate.Domain.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\CoreTemplate.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.DataAccess\\CoreTemplate.DataAccess.csproj"
+              },
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj"
+              },
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\CoreTemplate.Repository.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\CoreTemplate.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj",
+        "projectName": "CoreTemplate.Entity",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\CoreTemplate.Entity.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\CoreTemplate.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\CoreTemplate.Enum.csproj",
+        "projectName": "CoreTemplate.Enum",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\CoreTemplate.Enum.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\CoreTemplate.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\CoreTemplate.Repository.csproj",
+        "projectName": "CoreTemplate.Repository",
+        "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\CoreTemplate.Repository.csproj",
+        "packagesPath": "C:\\Users\\SIndhu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SIndhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\CoreTemplate.Enum.csproj": {
+                "projectPath": "C:\\Users\\SIndhu\\source\\repos\\CoreTemplate\\CoreTemplate.Enum\\CoreTemplate.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

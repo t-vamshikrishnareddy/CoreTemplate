@@ -1,0 +1,8 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\bin\Debug\netstandard2.0\CoreTemplate.Enum.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\bin\Debug\netstandard2.0\CoreTemplate.Enum.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\bin\Debug\netstandard2.0\CoreTemplate.Enum.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\obj\Debug\netstandard2.0\CoreTemplate.Enum.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\obj\Debug\netstandard2.0\CoreTemplate.Enum.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\obj\Debug\netstandard2.0\CoreTemplate.Enum.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\obj\Debug\netstandard2.0\CoreTemplate.Enum.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Enum\obj\Debug\netstandard2.0\CoreTemplate.Enum.pdb

@@ -1,0 +1,11 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\bin\Debug\netstandard2.1\CoreTemplate.Repository.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\bin\Debug\netstandard2.1\CoreTemplate.Repository.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\bin\Debug\netstandard2.1\CoreTemplate.Repository.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\bin\Debug\netstandard2.1\CoreTemplate.Enum.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\bin\Debug\netstandard2.1\CoreTemplate.Enum.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.csproj.CopyComplete
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Repository\obj\Debug\netstandard2.1\CoreTemplate.Repository.pdb

@@ -1,0 +1,17 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Domain.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Domain.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Domain.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.DataAccess.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Entity.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Enum.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Repository.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.DataAccess.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Entity.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Repository.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.1\CoreTemplate.Enum.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.1\CoreTemplate.Domain.csproj.CopyComplete

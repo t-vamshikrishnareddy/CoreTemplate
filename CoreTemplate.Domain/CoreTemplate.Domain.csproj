@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreTemplate.DataAccess\CoreTemplate.DataAccess.csproj" />
+    <ProjectReference Include="..\CoreTemplate.Entity\CoreTemplate.Entity.csproj" />
+    <ProjectReference Include="..\CoreTemplate.Repository\CoreTemplate.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

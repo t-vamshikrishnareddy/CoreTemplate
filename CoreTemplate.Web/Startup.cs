@@ -2,12 +2,20 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using CoreTemplate.Business.Associates;
+using CoreTemplate.Business.Execution;
+using CoreTemplate.DataAccess;
+using CoreTemplate.Domain.Associates;
+using CoreTemplate.Domain.Execution;
+using CoreTemplate.Entity;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.SqlServer;
 
 namespace CoreTemplate.Web
 {
@@ -23,6 +31,9 @@ namespace CoreTemplate.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<CoreTemplateDataAccess>(options => options.UseSqlServer(@"Server=DESKTOP-NAFRO5K\MS2012;Database=ChocolateRoom;Trusted_Connection=True;"));
+            services.AddTransient<IBusiness, BusinessImpl>();
+            services.AddTransient<IDomain<TableModel>, DomainImpl>();
             services.AddControllersWithViews();
         }
 

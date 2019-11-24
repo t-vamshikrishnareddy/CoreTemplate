@@ -1,0 +1,8 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.0\CoreTemplate.Domain.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.0\CoreTemplate.Domain.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\bin\Debug\netstandard2.0\CoreTemplate.Domain.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.0\CoreTemplate.Domain.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.0\CoreTemplate.Domain.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.0\CoreTemplate.Domain.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.0\CoreTemplate.Domain.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Domain\obj\Debug\netstandard2.0\CoreTemplate.Domain.pdb

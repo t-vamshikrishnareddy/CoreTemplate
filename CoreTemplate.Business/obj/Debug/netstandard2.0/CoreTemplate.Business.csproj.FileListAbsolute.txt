@@ -1,0 +1,11 @@
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\bin\Debug\netstandard2.0\CoreTemplate.Business.deps.json
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\bin\Debug\netstandard2.0\CoreTemplate.Business.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\bin\Debug\netstandard2.0\CoreTemplate.Business.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\bin\Debug\netstandard2.0\CoreTemplate.Domain.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\bin\Debug\netstandard2.0\CoreTemplate.Domain.pdb
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.csprojAssemblyReference.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.AssemblyInfoInputs.cache
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.AssemblyInfo.cs
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.csproj.CopyComplete
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.dll
+C:\Users\SIndhu\source\repos\CoreTemplate\CoreTemplate.Business\obj\Debug\netstandard2.0\CoreTemplate.Business.pdb
